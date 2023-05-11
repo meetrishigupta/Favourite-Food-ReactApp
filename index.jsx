@@ -65,7 +65,7 @@ const food = {
               <h3>{food.sushi.name}</h3>
               <img src={food.sushi.image} />
             </div>
-            <div onClick={() => handleFoodClick("chicken")}>
+            <div onClick={() => handleFoodClick("chickenBiryani")}>
               <h3>{food.chickenBiryani.name}</h3>
               <img src={food.chickenBiryani.image} />
             </div>
