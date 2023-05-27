@@ -15,6 +15,11 @@ const food = {
           image:
             "https://res.cloudinary.com/dl26pbek4/image/upload/v1672294934/assets/pixzolo-photography-aeESmmFKH0M-unsplash_wag5lc.jpg",
         },
+        pasta: {
+          name: "Pasta",
+          image:
+            "https://res.cloudinary.com/dl26pbek4/image/upload/v1672294934/assets/pixzolo-photography-aeESmmFKH0M-unsplash_wag5lc.jpg",
+        },
         sushi: {
           name: "Sushi",
           image:
